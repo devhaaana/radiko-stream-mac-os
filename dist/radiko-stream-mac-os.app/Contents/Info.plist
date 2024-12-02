@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>radiko-stream-mac-os</string>
+	<key>CFBundleExecutable</key>
+	<string>radiko-stream-mac-os</string>
+	<key>CFBundleIconFile</key>
+	<string>generated-92d7c06110b85b54120481aeedfa6352162d22f438525681fe461b65dffb9741.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>radiko-stream-mac-os</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>radiko-stream-mac-os</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.0.0</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>
