@@ -27,8 +27,8 @@ However, the android version of radkio validates user provided by GPS informatio
 
 - You can install it **locally:**
   ```console
-  $ git clone https://github.com/devhaaana/Radiko-Stream-Mac-OS.git
-  $ cd Radiko-Stream-Mac-OS
+  $ git clone https://github.com/devhaaana/radiko-stream-mac-os.git
+  $ cd radiko-stream-mac-os
   ```
 
 ## Usage
@@ -49,4 +49,4 @@ However, the android version of radkio validates user provided by GPS informatio
 
 [rajiko](https://github.com/jackyzy823/rajiko)
 
-[Radiko-Stream](https://github.com/devhaaana/Radiko-Stream.git)
+[radiko-downloader](https://github.com/devhaaana/radiko-downloader.git)
